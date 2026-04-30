@@ -38,6 +38,7 @@ Completed a full Java academy and contributed to a real project within a develop
 
 **McDonald's** · Crew Member (Part-time, Apprenticeship) · Nov 2025 – Present  
 Working alongside my studies — developing reliability, fast adaptation, and teamwork in a high-pressure environment.
+
 ---
 
 📧 [amir.marciano21@outlook.com](mailto:amir.marciano21@outlook.com) · 📍 Turin, Italy · [LinkedIn](https://www.linkedin.com/in/amir-marciano21/)
