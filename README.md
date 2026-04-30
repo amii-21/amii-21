@@ -1,7 +1,10 @@
 # Amir Marciano
 
 **Computer Science student @ Università degli Studi di Torino** 
-I have hands-on experience with Java backend development from an extracurricular internship at AGM Solutions, where I worked within a team on a real project covering Spring Boot, Hibernate, MySQL, and Git. Currently in my last year, I have built five university projects spanning system design, client/server architecture, OS-level programming, and database modelling.
+
+
+Java backend developer with hands-on experience from a real-world internship at AGM Solutions — working within a team on a production project using Spring Boot, Hibernate, MySQL, and Git.
+Third-year student actively seeking a **curricular internship** in backend or fullstack development in Turin.
 
 ---
 
@@ -29,9 +32,11 @@ I have hands-on experience with Java backend development from an extracurricular
 
 ## Work Experience
 
-Beyond university, I have been working part-time at McDonald's since November 2025 alongside my studies — building habits of working under pressure, fast adaptation, and reliability in a high-tempo team environment.
+**AGM Solutions** · Java Software Developer (Extracurricular Internship) · Sep 2022 – Mar 2023  
+Completed a full Java academy and contributed to a real project within a development team, working with Spring Boot, Hibernate, AngularJS, and MySQL.
 
-Before that, I completed an extracurricular internship at **AGM Solutions** (Sep 2022 – Mar 2023), going through a full Java academy and contributing to a real project within a development team.
+**McDonald's** · Crew Member (Part-time, Apprenticeship) · Nov 2025 – Present  
+Working alongside my studies — developing reliability, fast adaptation, and teamwork in a high-pressure environment.
+---
 
-
-📧 amir.marciano21@outlook.com · 📍 Turin, Italy
+📧 [amir.marciano21@outlook.com](mailto:amir.marciano21@outlook.com) · 📍 Turin, Italy · [LinkedIn](https://www.linkedin.com/in/amir-marciano21/)
