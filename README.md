@@ -4,6 +4,7 @@
 
 
 Java backend developer with hands-on experience from a real-world internship at AGM Solutions — working within a team on a production project using Spring Boot, Hibernate, MySQL, and Git.
+
 Currently in my last year, I have built five university projects spanning system design, client/server architecture, OS-level programming, and database modelling.
 
 ---
